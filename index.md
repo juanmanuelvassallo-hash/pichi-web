@@ -17,4 +17,4 @@ habilita cuando el interés es mutuo.
 
 ## Contacto
 
-privacidad@pichi.com.ar
+pichi.app.ar@gmail.com
