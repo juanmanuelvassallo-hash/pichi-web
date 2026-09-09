@@ -11,6 +11,7 @@ habilita cuando el interés es mutuo.
 ## Documentos
 
 - [Política de privacidad](privacidad)
+- [Eliminar tu cuenta y tus datos](eliminar-cuenta)
 
 ---
 
