@@ -1,6 +1,6 @@
 # Política de Privacidad de Pichi
 
-**Última actualización:** 7 de septiembre de 2026
+**Última actualización:** 3 de octubre de 2026
 
 Esta política describe qué datos recopila la aplicación Pichi, con qué
 finalidad, dónde se almacenan y qué derechos tenés sobre ellos.
@@ -13,7 +13,7 @@ cruzas responsables. Al crear una cuenta aceptás lo aquí descrito.
 ## 1. Quién es responsable de tus datos
 
 **Responsable:** Juan Manuel Vassallo
-**Contacto:** privacidad@pichi.com.ar
+**Contacto:** pichi.app.ar@gmail.com
 **Aplicación:** Pichi
 
 ---
@@ -44,7 +44,7 @@ información.
 - Raza o razas
 - Peso, si lo indicás
 - Descripción escrita por vos
-- Estado reproductivo y sanitario: castración, pedigrí, certificado veterinario, vacunación
+- Estado reproductivo y sanitario: pedigrí, certificado veterinario, vacunación
 - Fotografías que subas
 
 **De tus preferencias de búsqueda**
@@ -56,12 +56,22 @@ información.
 
 ### 3.2 Datos que recopilamos automáticamente
 
-**Ubicación aproximada**
+**Ubicación**
 
 Con tu permiso explícito, obtenemos la ubicación de tu dispositivo para
 mostrarte perros cercanos. Solicitamos precisión media, no la máxima
 disponible, y únicamente mientras la aplicación está en uso. **No hacemos
-seguimiento en segundo plano.**
+seguimiento en segundo plano.** Otros usuarios nunca ven tu ubicación
+exacta (ver sección 5).
+
+**Identificador de notificaciones**
+
+Cuando iniciás sesión, tu dispositivo genera un identificador técnico que
+nos permite enviarte notificaciones, por ejemplo cuando tu perro tiene una
+nueva coincidencia. Lo guardamos asociado a tu cuenta solo para ese fin.
+No lo usamos para publicidad ni para rastrear tu actividad. Podés
+desactivar las notificaciones en cualquier momento desde los ajustes de tu
+dispositivo.
 
 **Actividad dentro de la aplicación**
 
@@ -82,16 +92,17 @@ seguimiento en segundo plano.**
 
 ## 4. Para qué usamos tus datos
 
-| Dato                | Finalidad                                             |
-| ------------------- | ----------------------------------------------------- |
-| Email y contraseña  | Autenticarte y proteger tu cuenta                     |
-| Nombre para mostrar | Identificarte ante personas con las que hiciste match |
-| Ubicación           | Buscar candidatos dentro de tu radio de búsqueda      |
-| Datos del perro     | Determinar compatibilidad con otros perfiles          |
-| Fotografías         | Mostrar el perfil de tu perro                         |
-| Preferencias        | Filtrar los candidatos que ves                        |
-| Mensajes            | Permitir la comunicación tras una coincidencia        |
-| Actividad           | Evitar mostrarte perfiles ya evaluados                |
+| Dato                            | Finalidad                                                                        |
+| ------------------------------- | -------------------------------------------------------------------------------- |
+| Email y contraseña              | Autenticarte, proteger tu cuenta y enviarte códigos para recuperar la contraseña |
+| Nombre para mostrar             | Identificarte ante personas con las que hiciste match                            |
+| Ubicación                       | Buscar candidatos dentro de tu radio de búsqueda                                 |
+| Datos del perro                 | Determinar compatibilidad con otros perfiles                                     |
+| Fotografías                     | Mostrar el perfil de tu perro                                                    |
+| Preferencias                    | Filtrar los candidatos que ves                                                   |
+| Mensajes                        | Permitir la comunicación tras una coincidencia                                   |
+| Actividad                       | Evitar mostrarte perfiles ya evaluados                                           |
+| Identificador de notificaciones | Avisarte de nuevas coincidencias                                                 |
 
 **No usamos tus datos para publicidad ni los vendemos a terceros.**
 
@@ -126,10 +137,12 @@ coincidencia mutua.**
 
 ### 6.2 Proveedores de servicios
 
-| Proveedor     | Servicio                      | Ubicación de los datos |
-| ------------- | ----------------------------- | ---------------------- |
-| Railway       | Servidores y base de datos    | Estados Unidos         |
-| Cloudflare R2 | Almacenamiento de fotografías | Distribuido            |
+| Proveedor                       | Servicio                                  | Ubicación de los datos |
+| ------------------------------- | ----------------------------------------- | ---------------------- |
+| Railway                         | Servidores y base de datos                | Estados Unidos         |
+| Cloudflare R2                   | Almacenamiento de fotografías             | Distribuido            |
+| Google Firebase Cloud Messaging | Envío de notificaciones al dispositivo    | Distribuido            |
+| Resend                          | Envío de emails (códigos de recuperación) | Brasil                 |
 
 Estos proveedores procesan datos únicamente para prestar el servicio y están
 sujetos a sus propias obligaciones de confidencialidad.
@@ -163,14 +176,14 @@ El plazo de 30 días permite recuperar una cuenta eliminada por error.
 ## 8. Tus derechos
 
 Podés ejercer los siguientes derechos escribiendo a
-**privacidad@pichi.com.ar**:
+**pichi.app.ar@gmail.com**:
 
 - **Acceso:** solicitar una copia de los datos que tenemos sobre vos
 - **Rectificación:** corregir información inexacta
 - **Eliminación:** borrar tu cuenta y tus datos
 - **Portabilidad:** recibir tus datos en formato legible por máquina
-- **Oposición:** retirar el permiso de ubicación en cualquier momento desde
-  los ajustes de tu dispositivo
+- **Oposición:** retirar el permiso de ubicación o de notificaciones en
+  cualquier momento desde los ajustes de tu dispositivo
 
 Responderemos dentro de los 30 días de recibida la solicitud.
 
@@ -225,4 +238,4 @@ de última actualización figura al comienzo del documento.
 Para cualquier consulta sobre esta política o sobre el tratamiento de tus
 datos:
 
-**privacidad@pichi.com.ar**
+**pichi.app.ar@gmail.com**
