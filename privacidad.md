@@ -1,6 +1,6 @@
 # Política de Privacidad de Pichi
 
-**Última actualización:** 3 de octubre de 2026
+**Última actualización:** 4 de octubre de 2026
 
 Esta política describe qué datos recopila la aplicación Pichi, con qué
 finalidad, dónde se almacenan y qué derechos tenés sobre ellos.
@@ -12,9 +12,9 @@ cruzas responsables. Al crear una cuenta aceptás lo aquí descrito.
 
 ## 1. Quién es responsable de tus datos
 
-**Responsable:** Juan Manuel Vassallo
-**Contacto:** pichi.app.ar@gmail.com
-**Aplicación:** Pichi
+- **Responsable:** Juan Manuel Vassallo
+- **Contacto:** pichi.app.ar@gmail.com
+- **Aplicación:** Pichi
 
 ---
 
@@ -113,11 +113,16 @@ dispositivo.
 La ubicación de tu perro es información sensible: los animales de raza son
 objetivo frecuente de robo. Por eso aplicamos las siguientes medidas:
 
-- **Nunca mostramos coordenadas exactas.** Otros usuarios solo ven una
-  distancia aproximada y redondeada, como "a unos 15 km".
-- **Aplicamos un desplazamiento aleatorio** a la posición antes de cualquier
-  cálculo visible, de modo que no sea posible triangular una dirección.
+- **Nunca enviamos coordenadas a otros usuarios.** Tu ubicación precisa se
+  guarda en nuestros servidores y se usa únicamente para calcular qué perros
+  están dentro del radio de búsqueda y para ordenarlos por cercanía. La
+  distancia exacta nunca sale de nuestros servidores.
+- **Otros usuarios solo ven una distancia redondeada**, como "a unos 15 km".
+  Cuanto mayor es la distancia, más grueso es el redondeo.
 - **Solo se muestra el nombre de la ciudad**, nunca calle ni número.
+- **Cuidá tu dirección en el chat.** No la compartas hasta conocer a la otra
+  persona; para el primer encuentro, elegí un lugar público o de tu
+  confianza.
 
 ---
 
